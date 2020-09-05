@@ -1,4 +1,4 @@
-![Image of Anne Washington](images/headshot.png
+![Image of Anne Washington](images/headshot.jpg
 "professional")
 ## About Me
 I am a MS student in the UConn EEB department
