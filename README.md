@@ -2,6 +2,6 @@
 "professional")
 ## About Me
 I am a MS student in the UConn EEB department
-interested in REPLACE_WITH_YOUR_PROFESSIONAL_INTERESTS.
+interested in management of natural places, from parks to refuges.
 [My CV](PDFs/CV.pdf)
 [Contact Info](contact-info.html)
