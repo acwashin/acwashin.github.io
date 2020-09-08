@@ -3,7 +3,7 @@ title: Contact Info
 layout: default
 ---
 Feel free to contact me at <anne.washington@uconn.edu>.
-Postal address:
+<br/>Postal address:
 Anne Washington
 Department of Ecology and Evolutionary Biology
 University of Connecticut
